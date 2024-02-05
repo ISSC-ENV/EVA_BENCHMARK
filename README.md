@@ -4,9 +4,9 @@
 
 The purpose of this exercise is first to compare and cross validate open-source package implementing, basic, textbook, extreme value analysis (univariate, stationary). In a second-step, results obtain with in-house tools, and customized approach can be added. Two datasets representing quantities of interest in the maritime industry will be used. 
 
- - Time series of slamming loads on a ferry vessel.
+ - Time series of slamming loads on a ferry vessel. The data is available in "data/data_fp43.h5"
 
- - Time series of significant wave height. 
+ - Time series of significant wave height. The data is available in "data/9.0_Points_4.0_IOWAGA.csv"
 
  ### Quantities to calculate
  
